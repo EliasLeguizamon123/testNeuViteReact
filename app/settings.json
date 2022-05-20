@@ -1,0 +1,20 @@
+{
+  "appname": "newmyappts",
+  "appport": "5006",
+  "mode": "browser",
+  "url": "/",
+  "globals": {
+    "AP": "Njs"
+  },
+  "window": {
+    "width": "1000",
+    "height": "700",
+    "fullscreen": false,
+    "alwaysontop": false,
+    "needsReload": true,
+    "iconfile": "app/assets/img/neutralino.png",
+    "enableinspector": false,
+    "borderless": false,
+    "maximize": false
+  }
+}

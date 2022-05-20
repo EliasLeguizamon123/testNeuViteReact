@@ -1,0 +1,10 @@
+# artifacts
+build
+dist
+coverage
+node_modules
+.github
+
+# files
+*.html
+app/assets
